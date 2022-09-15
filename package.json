@@ -1,0 +1,20 @@
+{
+  "name": "http-error",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evo772772/http-error.git"
+  },
+  "keywords": [],
+  "author": "admitriev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evo772772/http-error/issues"
+  },
+  "homepage": "https://github.com/evo772772/http-error#readme",
+  "devDependencies": {
+    "bump": "^0.2.5"
+  }
+}
